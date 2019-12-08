@@ -12,4 +12,4 @@ const UserInput = (props) => {
     )
 }
 
-export default UserInput; 
+export default UserInput;  
